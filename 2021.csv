@@ -1,4 +1,4 @@
-Station,name,latitude,longitude,Trips Started,Trips Ended,Total Trips
+Station,Name,Latitude,Longitude,Trips Started,Trips Ended,Total Trips
 10,Métro Angrignon (Lamont /  des Trinitaires),45.44691,-73.60363,4226.0,4591,8818.0
 13,Métro de l'Église (Ross / de l'Église),45.462726,-73.565959,7719.0,8552,16273.0
 17,Tolhurst / Fleury,45.544149,-73.66752,2501.0,2710,5214.0
