@@ -1,4 +1,4 @@
 # bixi-2021
-Data analysis of public BIXI data during the 2021 season. Executed with Python with analysis done in pandas.
+Data analysis and visualization of open BIXI data during the 2021 season. Analysis executed with Python (pandas), visualization done in ArcGIS and MapBox.
 
-Public trip data can be found on the BIXI website: https://bixi.com/en/open-data. 
+Data was sourced from the BIXI public website: https://bixi.com/en/open-data. 
